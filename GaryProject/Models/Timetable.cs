@@ -15,5 +15,6 @@ namespace GaryProject.Models
         public string Lecturer { get; set; }
         public string School { get; set; }
         public bool Availability { get; set; }
+        public bool Holiday { get; set; }
     }
 }
